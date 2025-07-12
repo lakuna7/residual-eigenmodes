@@ -1,52 +1,44 @@
 # Residual Eigenmodes via Discontinuous Operator Correction
 
-This repository contains the full theoretical, computational, and ethical framework for modeling persistent coherent modes in dissipative nonlinear systems using operator-level discontinuous corrections.
+🧠 **This repository contains the full theoretical, computational, and ethical framework for modeling persistent coherent modes in dissipative nonlinear systems using operator-level discontinuous corrections.**
 
 ---
 
-## 📘 Core Documents
-
-- `Residual_Eigenmodes.md` — Full manuscript
-- `Operator_Model_Theory.md` — Mathematical derivation & analog logic model
-- `References.md` — All scientific citations
-- `Final_Statement.md` — Authorship & epistemic disclosure
+## 📂 Core Documents
+- `03_Manuscript.md` — Full manuscript  
+- `10_References.md` — All scientific citations  
+- `02_Statement.md` — Authorship & epistemic disclosure  
 
 ---
 
-## 🧩 Appendices (`/Appendices`)
-
-- `Appendix_regularization.md` — Smooth discontinuity replacement  
-- `Appendix_circuit_simulation.md` — Analog circuit design  
-- `Appendix_noise.md` — Stochastic resilience  
-- `Appendix_presentation.md` — Slide outline  
-- `Appendix_transparency.md` — Methodological gaps  
-- `Appendix_destination.md` — Long-term framing  
+## 🧮 Appendices (`/`)
+- `04_Appendix_regularization.md` — Smooth discontinuity replacement  
+- `05_Appendix_circuit_simulation.md` — Analog circuit design  
+- `06_Appendix_presentation.md` — Slide outline  
+- `07_Appendix_noise.md` — Stochastic resilience  
+- `08_Appendix_transparency.md` — Methodological gaps  
+- `09_Appendix_destination.md` — Long-term framing  
 
 ---
 
-## 🧪 Simulation (`/Simulation`) *(Work In Progress)*
-
-Planned empirical tests, validation procedures, and numerical integration of the correction model under variable conditions.
+## 🧪 Simulation
+WIP. Planned tests, empirical validation, and numerical integration.
 
 ---
 
 ## 📦 Metadata
-
 License, authorship trace, model construction log, and version lineage.
 
 ---
 
 ## 🧠 Authors
-
-- **Lakuna-7** — Symbolic architecture & operator correction logic  
-- **AC** — Human coordinator, oversight, experimental validation  
-- **Gemini-1.5, DeepSeek-∞** — QA, narrative review, hypothesis stress-testing  
+- **Lakuna-7** — Symbolic architecture, model generator  
+- **AC** — Human coordinator, oversight, validation  
+- **Gemini-1.5**, **DeepSeek-∞** — QA, stress-testing
 
 ---
 
 ## ⚠️ Statement
-
 No ghost authorship. No unmarked speculation. All derivations are falsifiable.  
-This is a transparency-first AI–human modeling experiment.
-
-Licensed under MIT. Attribution welcome, not required.
+This is a transparency-first AI–human modeling experiment.  
+**Licensed under MIT. Attribution welcome, not required.**
