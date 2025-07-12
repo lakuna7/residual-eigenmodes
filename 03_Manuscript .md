@@ -139,7 +139,7 @@ Stability	Gradual decay	Mode persistence	Emergent from structure
 Energy Flow	Dissipative	Decay-interrupting impulse	Not an external pump
 Analog Build	Standard RLC	RLC + comparator injector	Buildable
 Spectral Profile	Lorentzian tails	Plateau with peak resonance	Distinct signature
-Testability	Not applicable	Directly togglable \epsilon	Immediate falsifiability
+Testability	Not applicable	Directly togglable \epsilon	Immediate falsifiability.
 
 
 ⸻
